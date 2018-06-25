@@ -208,7 +208,7 @@ members:
             routes:
                 -   contact@bostonhacks.io
   
-  -     name: Ramsha Arshad
+    -   name: Ramsha Arshad
         github:
             username: ramshaarshad
             role: member
